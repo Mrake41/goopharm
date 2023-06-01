@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.div1{
+    background-color: aliceblue;
+}
+.div3{
+    margin-right: 100px;
+}
+.div3>a{
+    margin-left: 20px;
+}
+.div2{
+    margin-left: 100px;
+}
+
+.div2>a{
+    text-decoration: none;
+    margin-left: 25px;
+}
+.div3>a{
+    text-decoration: none;
+}
+.div1{
+    border-bottom: 2px solid black;
+}
+.navdiv1{
+    background-color: aliceblue;
+}
+.navdiv4>a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+}
+.navdiv4>a>i{
+    color: steelblue;
+}
